@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="50dp">
+
+    <ImageView
+
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher_round"
+        android:id="@+id/add_image_contact"/>
+
+    <EditText
+
+        android:layout_width="match_parent"
+        android:gravity="start"
+        android:hint="@string/name_Edit_text"
+        android:layout_height="wrap_content"
+        android:id="@+id/name_contact_text"/>
+
+    <EditText
+
+        android:layout_width="match_parent"
+        android:gravity="start"
+        android:hint="@string/email_Edit_text"
+        android:layout_height="wrap_content"
+        android:id="@+id/phone_contact_text"/>
+
+    <EditText
+
+        android:layout_width="match_parent"
+        android:gravity="start"
+        android:hint="@string/phone_Edit_text"
+        android:layout_height="wrap_content"
+        android:id="@+id/email_contact_text"
+        android:inputType="number"/>
+
+    <Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_contact"
+        android:id="@+id/button_send_data"/>
+
+</LinearLayout>

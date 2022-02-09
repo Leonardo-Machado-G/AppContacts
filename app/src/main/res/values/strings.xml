@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppContactos</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="name_Edit_text">Name:</string>
+    <string name="options_Edit_text">Options:</string>
+    <string name="email_Edit_text">Email:</string>
+    <string name="phone_Edit_text">Teléfono:</string>
+
+
+</resources>

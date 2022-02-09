@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Virrey-2DAM/AndroidStudioProjects/AppContactos/app/src/main/res/layout-large/activity_list_contact.xml" value="0.102734375" />
+        <entry key="..\:/Users/Virrey-2DAM/AndroidStudioProjects/AppContactos/app/src/main/res/layout/activity_add_contact.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/Virrey-2DAM/AndroidStudioProjects/AppContactos/app/src/main/res/layout/activity_detail_contact.xml" value="0.1" />
+        <entry key="..\:/Users/Virrey-2DAM/AndroidStudioProjects/AppContactos/app/src/main/res/layout/activity_list_contact.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/Virrey-2DAM/AndroidStudioProjects/AppContactos/app/src/main/res/layout/activity_main.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/Virrey-2DAM/AndroidStudioProjects/AppContactos/app/src/main/res/layout/fragment_detail_contact.xml" value="0.25" />
+        <entry key="..\:/Users/Virrey-2DAM/AndroidStudioProjects/AppContactos/app/src/main/res/layout/fragment_list.xml" value="0.10260416666666666" />
+        <entry key="..\:/Users/Virrey-2DAM/AndroidStudioProjects/AppContactos/app/src/main/res/layout/fragment_list_contact.xml" value="0.2078804347826087" />
+        <entry key="..\:/Users/Virrey-2DAM/AndroidStudioProjects/AppContactos/app/src/main/res/layout/toolbar_detail_activity.xml" value="0.1" />
+        <entry key="..\:/Users/Virrey-2DAM/AndroidStudioProjects/AppContactos/app/src/main/res/menu/menu_main.xml" value="0.25" />
+        <entry key="..\:/Users/leosl/AndroidStudioProjects/AppContactos/app/src/main/res/layout-land/activity_add_contact.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/leosl/AndroidStudioProjects/AppContactos/app/src/main/res/layout-land/activity_detail_contact.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/leosl/AndroidStudioProjects/AppContactos/app/src/main/res/layout-land/activity_list_contact.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/leosl/AndroidStudioProjects/AppContactos/app/src/main/res/layout-large/activity_list_contact.xml" value="0.1" />
+        <entry key="..\:/Users/leosl/AndroidStudioProjects/AppContactos/app/src/main/res/layout/activity_list_contact.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/leosl/AndroidStudioProjects/AppContactos/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
